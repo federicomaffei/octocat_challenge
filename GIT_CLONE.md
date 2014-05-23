@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+git clone has the purpose of cloning a repository into a new directory.
